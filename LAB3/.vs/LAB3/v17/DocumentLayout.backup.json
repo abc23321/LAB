@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs studio\\LAB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "LAB3\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "LAB3\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T02:44:46.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LAB3\\Models\\Product.cs",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Models\\Product.cs",
+              "RelativeToolTip": "LAB3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:42:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LAB3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LAB3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:29:34.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

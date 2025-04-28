@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\vs studio\\LAB\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|d:\\vs studio\\lab\\lab1.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|solutionrelative:lab1.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|d:\\vs studio\\lab\\lab1.5\\hinhcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|solutionrelative:lab1.5\\hinhcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|d:\\vs studio\\lab\\lab1.5\\hinhtamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|solutionrelative:lab1.5\\hinhtamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|d:\\vs studio\\lab\\lab1.5\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|solutionrelative:lab1.5\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|d:\\vs studio\\lab\\lab1.5\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|solutionrelative:lab1.5\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|d:\\vs studio\\lab\\lab1.5\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DDB832-4935-472C-8B14-0DF52AAF5CD1}|LAB1.5\\LAB1.5.csproj|solutionrelative:lab1.5\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HinhTamGiac.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB\\LAB1.5\\HinhTamGiac.cs",
+              "RelativeDocumentMoniker": "LAB1.5\\HinhTamGiac.cs",
+              "ToolTip": "D:\\vs studio\\LAB\\LAB1.5\\HinhTamGiac.cs",
+              "RelativeToolTip": "LAB1.5\\HinhTamGiac.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:53:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HinhCN.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB\\LAB1.5\\HinhCN.cs",
+              "RelativeDocumentMoniker": "LAB1.5\\HinhCN.cs",
+              "ToolTip": "D:\\vs studio\\LAB\\LAB1.5\\HinhCN.cs",
+              "RelativeToolTip": "LAB1.5\\HinhCN.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:52:31.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HinhVuong.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB\\LAB1.5\\HinhVuong.cs",
+              "RelativeDocumentMoniker": "LAB1.5\\HinhVuong.cs",
+              "ToolTip": "D:\\vs studio\\LAB\\LAB1.5\\HinhVuong.cs",
+              "RelativeToolTip": "LAB1.5\\HinhVuong.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:51:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB\\LAB1.5\\HinhTron.cs",
+              "RelativeDocumentMoniker": "LAB1.5\\HinhTron.cs",
+              "ToolTip": "D:\\vs studio\\LAB\\LAB1.5\\HinhTron.cs",
+              "RelativeToolTip": "LAB1.5\\HinhTron.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:49:33.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hinh.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB\\LAB1.5\\Hinh.cs",
+              "RelativeDocumentMoniker": "LAB1.5\\Hinh.cs",
+              "ToolTip": "D:\\vs studio\\LAB\\LAB1.5\\Hinh.cs",
+              "RelativeToolTip": "LAB1.5\\Hinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:47:59.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB\\LAB1.5\\Program.cs",
+              "RelativeDocumentMoniker": "LAB1.5\\Program.cs",
+              "ToolTip": "D:\\vs studio\\LAB\\LAB1.5\\Program.cs",
+              "RelativeToolTip": "LAB1.5\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:46:47.114Z",
+              "EditorCaption": ""
             }
           ]
         },
