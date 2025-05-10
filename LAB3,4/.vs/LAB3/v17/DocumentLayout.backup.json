@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs studio\\LAB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|d:\\vs studio\\lab3\\lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28776F16-9A93-4B81-880D-850C0444970C}|LAB3\\LAB3.csproj|solutionrelative:lab3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "LAB3\\Views\\User\\Add.cshtml",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "LAB3\\Views\\User\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:56:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LAB3\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LAB3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:55:37.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAB3\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "LAB3\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:23:58.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LAB3\\Models\\User.cs",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Models\\User.cs",
+              "RelativeToolTip": "LAB3\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:53:09.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LAB3\\Models\\Product.cs",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Models\\Product.cs",
+              "RelativeToolTip": "LAB3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:42:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\vs studio\\LAB3\\LAB3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LAB3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\vs studio\\LAB3\\LAB3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LAB3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:29:34.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
